@@ -1,5 +1,5 @@
 <?php
-  require('Pusher.php');
+  require 'vendor/autoload.php';
 
   $options = array(
     'encrypted' => true
