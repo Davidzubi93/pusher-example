@@ -18,5 +18,5 @@ IMPORTANTE : Cuando ejecutemos el comando anteriormente citado y nos muestra el 
     
     Despues de instalar composer instalamos pusher con el comando citado en la segunda linea.
     
-    Una vez creamos dos archivos, por ejemplo pusher.html y pusher.php y en cada archivo añadiremos el codigo que nos ofrece en nuestra cuenta de pusher
+Una vez creamos dos archivos, por ejemplo pusher.html y pusher.php y en cada archivo añadiremos el codigo que nos ofrece en nuestra cuenta de pusher.
 
