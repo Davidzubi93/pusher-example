@@ -3,7 +3,7 @@
 Ejemplo sencillo de pusher para ver como funciona
 https://pusher.com/
 
-#Instalacion
+# Instalacion y Configuracion
 Primero necesitaremos tener una cuenta de pusher, puedes crear una cuenta o asociar tu cuenta de github.
 
 Una vez realizado lo de la cuenta, instalamos pusher via composer ejecutando el siguiente comando --> $ composer require pusher/pusher-php-server
@@ -17,4 +17,6 @@ IMPORTANTE : Cuando ejecutemos el comando anteriormente citado y nos muestra el 
     php -r "unlink('composer-setup.php');"
     
     Despues de instalar composer instalamos pusher con el comando citado en la segunda linea.
+    
+    Una vez creamos dos archivos, por ejemplo pusher.html y pusher.php y en cada archivo añadiremos el codigo que nos ofrece en nuestra cuenta de pusher
 
